@@ -67,7 +67,7 @@ work:
     company_logo: ''
     date_start: August 2021
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Module leader of the Natural Language Processing module of the MSc AI programme
       - Leader of the "Information Processing, Modelling and Retrieval Group"
