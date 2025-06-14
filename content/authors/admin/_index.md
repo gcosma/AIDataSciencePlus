@@ -52,12 +52,12 @@ interests:
 education:
   - area: PhD Computer Science (NLP)
     institution: University of Warwick
-    date_start: September 2004
-    date_end: June 2008
+    date_start: 2004-09-01
+    date_end: 2008-05-01
   - area: BSc (Hons) Computer Science
     institution: Coventry University 
-    date_start: September 2000
-    date_end: July 2003
+    date_start: 2000-09-01
+    date_end: 2003-07-01
     summary: |
       GPA: First Class 
 work:
@@ -65,7 +65,7 @@ work:
     company_name: Loughborough University
     company_url: ''
     company_logo: ''
-    date_start: August 2021
+    date_start: 2021-08-01
     date_end: ''
     summary: |
       Responsibilities include:
