@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Professor
+title: Georgina Cosma
 
 # Name pronunciation (optional)
-name_pronunciation: Georgina Cosma
+#name_pronunciation: Georgina Cosma
 
 # Full name (for SEO)
 first_name: Georgina
@@ -25,7 +25,7 @@ role: Professor of AI
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Loughborough University
-  - url: https://openai.com/
+  - url: https://www.lboro.ac.uk/departments/compsci/staff/georgina-cosma/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,16 +35,16 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: http://github.com/gcosma
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://uk.linkedin.com/in/georginacosma
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.uk/citations?user=OpHkDDIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4663-6907
 
 interests:
   - Artificial Intelligence
