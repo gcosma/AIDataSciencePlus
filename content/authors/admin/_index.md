@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/
   - icon: brands/github
     url: http://github.com/gcosma
   - icon: brands/linkedin
@@ -48,47 +46,26 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
+  - Healthcare Data Science
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Science (NLP)
+    institution: University of Warwick
+    date_start: September 2004
+    date_end: June 2008
+  - area: BSc (Hons) Computer Science
+    institution: Coventry University 
+    date_start: September 2000
+    date_end: July 2003
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: First Class 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Professor of AI
+    company_name: Loughborough University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: August 2021
     date_end: ''
     summary: |2-
       Responsibilities include:
