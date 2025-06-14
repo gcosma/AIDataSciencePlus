@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:g.cosma@lboro.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/gcosma1?lang=en
   - icon: brands/github
     url: http://github.com/gcosma
   - icon: brands/linkedin
