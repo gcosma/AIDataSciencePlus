@@ -60,6 +60,7 @@ education:
     date_end: 2003-07-01
     summary: |
       GPA: First Class 
+      
 work:
   - position: Professor of AI
     company_name: Loughborough University
