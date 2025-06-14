@@ -79,6 +79,5 @@ languages:
   - name: Greek
     percent: 100
 
-
-
 bio: Professor Georgina Cosma is a leading researcher in neural information retrieval and artificial intelligence at Loughborough University, where she heads the "Neural Information Processing, Retrieval & Modelling" research group. She is an advocate for ethical and responsible AI development, with expertise in neural information retrieval systems, large language models, and multimodal data processing spanning text, structured datasets, and images. Her work includes explainable AI for healthcare applications and innovative approaches to temporal data modelling beyond conventional prediction methods. As an ONS (Office for National Statistics) accredited researcher under the UK Digital Economy Act 2017 (AR number:40476), she maintains the highest standards for secure and ethical data handling and statistical analysis. She serves as Associate Editor of Elsevier's Pattern Recognition journal and is a Fellow of the Royal Statistical Society.
+---
